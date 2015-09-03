@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="img"/>
+	<classpathentry kind="src" path="data"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="//Ind-mj01q7qt.logon.ds.ge.com/sdata/Scrap_Material_Prog/Driver/UCanAccess-3.0.0-bin/ucanaccess-3.0.0.jar"/>
+	<classpathentry kind="lib" path="//Ind-mj01q7qt.logon.ds.ge.com/sdata/Scrap_Material_Prog/Driver/UCanAccess-3.0.0-bin/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="//Ind-mj01q7qt.logon.ds.ge.com/sdata/Scrap_Material_Prog/Driver/UCanAccess-3.0.0-bin/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="//Ind-mj01q7qt.logon.ds.ge.com/sdata/Scrap_Material_Prog/Driver/UCanAccess-3.0.0-bin/lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="//Ind-mj01q7qt.logon.ds.ge.com/sdata/Scrap_Material_Prog/Driver/UCanAccess-3.0.0-bin/lib/jackcess-2.1.2.jar"/>
+	<classpathentry kind="lib" path="//Ind-mj01q7qt.logon.ds.ge.com/sdata/Scrap_Material_Prog/Driver/Microsoft JDBC Driver 4.2 for SQL Server/sqljdbc_4.2/enu/sqljdbc4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
